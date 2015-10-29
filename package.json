@@ -1,0 +1,18 @@
+{
+  "name": "rxtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geert",
+  "license": "ISC",
+  "dependencies": {
+    "rx": "^4.0.6"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.33",
+    "gulp-babel": "^5.3.0"
+  }
+}
